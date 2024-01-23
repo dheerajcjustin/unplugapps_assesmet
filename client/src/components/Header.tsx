@@ -195,7 +195,7 @@ export const Header = ({
                                     />
                                     <div className="relative">
                                           <Button
-                                                className="bg-mainPrimary w-36 text-center flex justify-center"
+                                                className="bg-mainPrimary dark:bg-gray-800 w-36 text-center flex justify-center"
                                                 type="submit"
                                           >
                                                 save
