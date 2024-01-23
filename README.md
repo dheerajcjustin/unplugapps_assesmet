@@ -6,7 +6,7 @@ prerequire: mysql server , node on the system
 
 First,set set up crate env file and setup env example evn is given
 
-For the first time installation run no need after on both folder server and client
+For the first time installation run. no need after on both folder server and client
 
 ````bash
 npm  i```
