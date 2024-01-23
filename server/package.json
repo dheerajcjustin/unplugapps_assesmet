@@ -1,0 +1,32 @@
+{
+      "name": "demo-express",
+      "version": "1.0.0",
+      "description": "",
+      "main": "server.js",
+      "scripts": {
+            "dev": "ts-node src/index.ts",
+            "build": "tsc",
+            "serve": "node dist/index.js",
+            "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "author": "",
+      "license": "ISC",
+      "devDependencies": {
+            "@types/cors": "^2.8.17",
+            "@types/express": "^4.17.21",
+            "@types/node": "^20.10.5",
+            "@types/validator": "^13.11.8",
+            "express": "^4.18.2",
+            "ts-node": "^10.9.2",
+            "typescript": "^5.3.3"
+      },
+      "dependencies": {
+            "cors": "^2.8.5",
+            "dotenv": "^16.3.2",
+            "mysql2": "^3.7.1",
+            "reflect-metadata": "^0.2.1",
+            "sequelize": "^6.35.2",
+            "sequelize-typescript": "^2.1.6",
+            "sqlite3": "^5.1.7"
+      }
+}
