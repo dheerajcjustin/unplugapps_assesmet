@@ -1,0 +1,7 @@
+
+MYSQL_DATABASE=unplugapps_assesment
+MYSQL_USERNAME=root
+MYSQL_PASSWORD=goodpassword  
+MYSQL_HOST=localhost  
+MYSQL_DIALECT=mysql  
+BACKENDPORT=8010
